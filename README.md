@@ -1,10 +1,8 @@
 # Wheaton Life Server
 
+This is the server side of the wheaton Life app (will under construction after all the api's are finished)
 
 ## What This Will be Like
-
-
--
 
 This server app WILL(not now) contain the api of
  
